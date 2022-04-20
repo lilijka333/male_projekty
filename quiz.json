@@ -1,0 +1,71 @@
+[
+  {
+    "question": "Jak wyświetlamy komunikaty w Pythonie?",
+    "answers": [
+      {
+      "text": "put",
+      "correct": false
+      },
+      {
+        "text": "write",
+        "correct": false
+      },
+      {
+        "text": "print",
+        "correct": true
+      }
+    ]
+  },
+    {
+    "question": "Czy ziemia jest okrągła?",
+    "answers": [
+      {
+      "text": "tak",
+      "correct": true
+      },
+      {
+        "text": "nie",
+        "correct": false
+      }
+
+    ]
+  },
+    {
+    "question": "Czy lubiasz jeść lody zimą?",
+    "answers": [
+      {
+      "text": "tak, ale w ciepłym miejscu",
+      "correct": true
+      },
+      {
+        "text": "nie",
+        "correct": false
+      },
+      {
+        "text": "Jestem na diecie",
+        "correct": true
+      }
+    ]
+  },
+    {
+    "question": "Które typy danych można modifikować?",
+    "answers": [
+      {
+      "text": "listy i stringi",
+      "correct": false
+      },
+      {
+        "text": "stringi",
+        "correct": false
+      },
+      {
+        "text": "listy ",
+        "correct": true
+      },
+      {
+        "text": "listy, słowniki i sety",
+        "correct": true
+      }
+    ]
+  }
+]
